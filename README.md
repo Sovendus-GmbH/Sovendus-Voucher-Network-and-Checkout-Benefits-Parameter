@@ -1,6 +1,8 @@
 # Parameter for Sovendus Voucher Network and Checkout Benefits
 
-The following table outlines the parameters required for integrating Sovendus into your system. Note that for Voucher Network and Checkout Benefits are different parameter needed. If you're integrating both, make sure to pass on all parameters from both tables.
+The following table outlines the parameters required for integrating Sovendus into your system.
+
+Note that for Voucher Network and Checkout Benefits are different parameter needed. If you're integrating both, make sure to pass on all parameters from both tables.
 
 ## Voucher Network Parameter
 
